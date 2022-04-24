@@ -1,1 +1,1 @@
-# stock-market-price-prediction
+# Amazon_Stock_Market_Prediction_using_lstm
